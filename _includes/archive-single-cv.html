@@ -31,9 +31,9 @@
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         {% if post.codeurl %}
-          <p> <b>{{ title }}</b> <a href="{{ post.paperurl }}"><u>[paper]</u></a>&nbsp;<a href="{{ post.codeurl }}"><u>[code]</u></a></p>
+          <p style="margin-bottom: 0px;"> <b>{{ title }}</b> <a href="{{ post.paperurl }}"><u><b>[paper]</b></u></a>&nbsp;<a href="{{ post.codeurl }}"><u><b>[code]</b></u></a></p>
         {% else %}
-          <p> <b>{{ title }}</b> <a href="{{ post.paperurl }}"><u>[paper]</u></a></p>
+          <p style="margin-bottom: 0px;"> <b>{{ title }}</b> <a href="{{ post.paperurl }}"><u><b>[paper]</b></u></a></p>
         {% endif %}
       {% endif %}
     <!-- </h3> -->
@@ -41,7 +41,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description"><i>{{ post.citation }}</i></p> {% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description" style="margin-top: 0px "><i>{{ post.citation }}</i></p> {% endif %}
     </li>
  </article>
 </div>

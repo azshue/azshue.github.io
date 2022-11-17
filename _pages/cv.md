@@ -12,20 +12,24 @@ redirect_from:
 Education
 ======
 
-* *[08/2019 - 05/2024 (expected)]* **University of Maryland**, College Park, MD
+* **University of Maryland**, College Park, MD
+  * 08/2019 - 05/2024 (expected)
   * Ph.D. in Computer Science *(GPA: 4.0)*
 
 
-* *[08/2015 - 06/2019]* **University of Science and Technology of China**, Hefei, China
+* **University of Science and Technology of China**, Hefei, China
+  * 08/2015 - 06/2019
   * B.S. in Information Security *(GPA: 3.80)*
 
 
 Work experience
 ======
-* *[06/2022 - present]* **Salesforce**, Research Intern. Palo Alto, CA
+* **Salesforce**, Research Intern. Palo Alto, CA
+  * 06/2022 - 11/2022
   * Intern project: 3D Point Cloud Object Detection
 
-* *[01/2022 - 05/2022]* **Nvidia**, Research Intern. Santa Clara, CA (remote)
+* **Nvidia**, Research Intern. Santa Clara, CA (remote)
+  * 01/2022 - 05/2022
   * Intern project: Zero-shot Prompt Tuning for Vision-Language Models
   
 Research experience

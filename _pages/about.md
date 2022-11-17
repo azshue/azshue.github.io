@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,6 +12,8 @@ redirect_from:
 
 
 ## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+    {% for post in site.publications reversed %}
+        {% include archive-single-cv.html %}
+  {% endfor %}
+  </ul>

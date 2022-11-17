@@ -6,5 +6,5 @@ excerpt: ''
 date: 2022-09-01
 venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://arxiv.org/pdf/2108.01335.pdf'
-citation: 'R. Levin, M. Shu, E. Borgnia, F. Huang, M. Goldblum, T. Goldstein, NeurIPS, 2022'
+citation: 'R. Levin<sup>&#42;</sup>, <b>M. Shu<sup>&#42;</sup></b>, E. Borgnia<sup>&#42;</sup>, F. Huang, M. Goldblum, T. Goldstein, NeurIPS, 2022'
 ---
