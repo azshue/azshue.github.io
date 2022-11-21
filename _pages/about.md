@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-excerpt: "About me"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 ## About me     
-  I am a 4-th year Ph.D. Student in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assisstant at UMD, I work with my Ph.D. advisor Professor [Tom Goldstein](https://www.cs.umd.edu/~tomg/). My research focuses on developing practical machine learning (ML) models that can generalize to real-world data, which includes a wide range of data distributions. I am interested in studying this problem for different applications, including computer vision and multi-modal learning. 
+   I am a 4th-year Ph.D. Student in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with my Ph.D. advisor Dr.[Tom Goldstein](https://www.cs.umd.edu/~tomg/). My research goal is to develop practical machine learning/deep learning (ML/DL) models that can generalize to real-world data. Relevant research directions include robustness to distribution shift, out-of-distribution generalization, etc. I am interested in studying these problems on different applications, including computer vision and multimodal learning.      
 
+<!-- ## News    
+  * I'm attending NeurIPS this year in person.  -->
 
 ## Publications
   <ul>
