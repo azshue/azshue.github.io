@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 ## About me     
-   I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with my Ph.D. advisor Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) on research topics relevent to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models. I have worked on research projects related to model robustness, explainability, and generalization to distribution shifts. I am interested in studying these problems in various domains, including computer vision (3D vision), large language models (LLMs) and multimodal (vision-language) learning. During my Ph.D., I have interned at Nvidia, Salesforce, and Google as research intern.     
+   I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with my Ph.D. advisor Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) on research topics relevent to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models. I have worked on research projects related to model robustness, explainability, and generalization to distribution shifts.     
+   
+   I have experience in studying these problems in multiple domains, including computer vision (3D vision), large language models (LLMs) and multimodal (vision-language) learning. During my Ph.D., I have interned at Nvidia, Salesforce, and Google as research intern.     
    
    Prior to UMD, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.
   
@@ -61,5 +63,7 @@ redirect_from:
     **M. Shu**, L. Xue, R. Mart\'in-Mart\'in, C. Xiong, T. Goldstein, J.C. Niebles, R. Xu.    
     *Under review*     
     [[Pre-print](https://arxiv.org/pdf/2301.02650.pdf)]
+
+
 
   
