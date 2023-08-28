@@ -30,7 +30,7 @@ redirect_from:
   * **On the Reliability of Watermarks for Large Language Models**    
     J. Kirchenbauer\*, J. Geiping\*, Y. Wen, **M. Shu**, K. Saifullah, K. Kong, K. Fernando, A. Saha, M. Goldblum, T. Goldstein    
     *Under review*    
-    [[Pre-print](https://arxiv.org/pdf/2306.04634.pdf)] [[Code](https://github.com/jwkirchenbauer/lm-watermarking)]
+    [[Preprint](https://arxiv.org/pdf/2306.04634.pdf)] [[Code](https://github.com/jwkirchenbauer/lm-watermarking)]
 
 
   * **Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**    
@@ -62,7 +62,7 @@ redirect_from:
   * **Model-Agnostic Hierarchical Attention for 3D Object Detection**    
     **M. Shu**, L. Xue, R. Mart\'in-Mart\'in, C. Xiong, T. Goldstein, J.C. Niebles, R. Xu.    
     *Under review*     
-    [[Pre-print](https://arxiv.org/pdf/2301.02650.pdf)]
+    [[Preprint](https://arxiv.org/pdf/2301.02650.pdf)]
 
 
 ## Services
