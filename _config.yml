@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+minimal_mistakes_skin    : "mint"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Manli Shu"
@@ -109,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "ManliShu"
   vine             :
   weibo            :
   xing             :
