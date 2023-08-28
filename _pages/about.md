@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 ## About me     
-   I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with my Ph.D. advisor Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) on research topics relevent to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models. I have worked on research projects related to model robustness, explainability, and generalization to distribution shifts.     
+   I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with my Ph.D. advisor, Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), on research topics relevant to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models. I have worked on research projects on model robustness, explainability, and generalization to distribution shifts.     
    
-   I have experience in studying these problems in multiple domains, including computer vision (3D vision), large language models (LLMs) and multimodal (vision-language) learning. During my Ph.D., I have interned at Nvidia, Salesforce, and Google as research intern.     
+   I have experience in studying these problems in multiple domains, including computer vision (3D vision), large language models (LLMs), and multimodal (vision-language) learning. During my Ph.D., I have interned at Nvidia, Salesforce, and Google as a research intern.     
    
-   Prior to UMD, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.
+   Before UMD, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.
   
-  <!-- :point_right: <span style="background-color: #cce6ff">I'm graduating in Spring 2024 and I'm on the job market for full-time roles in industrial research.</span> -->
+  <span style="background-color: #cce6ff">I'm graduating in Spring 2024 and am now on the job market for full-time roles.</span>
 
 ## Selected Publications
 
-  *For the full list of my publications, please refer to my [google scholar](https://scholar.google.com/citations?user=WPYkxjgAAAAJ&hl=en) page*
+  *For the complete list of publications, please refer to my [google scholar](https://scholar.google.com/citations?user=WPYkxjgAAAAJ&hl=en) page*
 
   * **On the Exploitability of Instruction Tuning**    
     **M. Shu**, J. Wang, C. Zhu, J. Geiping, C. Xiao, T. Goldstein    
@@ -65,5 +65,12 @@ redirect_from:
     [[Pre-print](https://arxiv.org/pdf/2301.02650.pdf)]
 
 
+## Services
 
-  
+Conference reviewer:  NeurIPS, ICML, ICLR, CVPR, ICCV, IROS   
+Journal reviewer: IJCV    
+
+## More about me (misc)
+
+I enjoy doing yoga and meditation. I listen to classical music when focusing. 
+I'm not a gamer, but I once spent a good amount of time on The Legend of Zelda (BotW) and Stardew Valley.
