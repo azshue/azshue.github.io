@@ -11,7 +11,7 @@ redirect_from:
 ## About me     
    I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) on research topics relevant to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models, for which I have worked on model robustness, explainability, and generalization to distribution shifts, etc. I have broad interests and experience in studying these problems for different ML systems, including vision-language models, large language models (LLMs), and image generative diffusion models. 
    
-   During Ph.D., I have interned at Nvidia (with Dr. [Chaowei Xiao](https://xiaocw11.github.io/) and Dr. [Anima Anandkumar](https://research.nvidia.com/person/anima-anandkumar)) and Salesforce (with Dr. [Juan Carlos Niebles](https://www.niebles.net/) and Dr. [Ran Xu](https://blog.salesforceairesearch.com/author/ran/)) as a research intern. I am currently a student researcher at Google working with Dr.[Yaojie Liu](https://yaojieliu.github.io/) and Dr. [Vincent Chu](https://l2ior.github.io/).     
+   During Ph.D., I have interned at Nvidia (with Dr. [Chaowei Xiao](https://xiaocw11.github.io/) and Dr. [Anima Anandkumar](https://research.nvidia.com/person/anima-anandkumar)) and Salesforce (with Dr. [Juan Carlos Niebles](https://www.niebles.net/) and Dr. [Ran Xu](https://blog.salesforceairesearch.com/author/ran/)) as a research intern. I am currently a student researcher at Google working with Dr. [Yaojie Liu](https://yaojieliu.github.io/) and Dr. [Vincent Chu](https://l2ior.github.io/).     
    
    Before UMD, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.
   
@@ -24,7 +24,7 @@ redirect_from:
   * **On the Exploitability of Instruction Tuning**    
     **M. Shu**, J. Wang, C. Zhu, J. Geiping, C. Xiao, T. Goldstein    
     *Under review*    
-    [[Pre-print](https://arxiv.org/pdf/2306.17194.pdf)] [[Code](https://github.com/azshue/AutoPoison)]
+    [[Preprint](https://arxiv.org/pdf/2306.17194.pdf)] [[Code](https://github.com/azshue/AutoPoison)]
 
 
   * **On the Reliability of Watermarks for Large Language Models**    
