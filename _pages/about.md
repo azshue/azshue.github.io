@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 ## About me     
-   I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with my Ph.D. advisor, Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/), on research topics relevant to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models. I have worked on research projects on model robustness, explainability, and generalization to distribution shifts.     
+   I am a fifth-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) on research topics relevant to AI/ML safety. My research interest is to develop trustworthy machine learning (AI/ML) models, for which I have worked on model robustness, explainability, and generalization to distribution shifts, etc. I have broad interests and experience in studying these problems for different ML systems, including vision-language models, large language models (LLMs), and image generative diffusion models. 
    
-   I have experience in studying these problems in multiple domains, including computer vision (3D vision), large language models (LLMs), and multimodal (vision-language) learning. During my Ph.D., I have interned at Nvidia, Salesforce, and Google as a research intern.     
+   During Ph.D., I have interned at Nvidia (with Dr. [Chaowei Xiao](https://xiaocw11.github.io/) and Dr. [Anima Anandkumar](https://research.nvidia.com/person/anima-anandkumar)) and Salesforce (with Dr. [Juan Carlos Niebles](https://www.niebles.net/) and Dr. [Ran Xu](https://blog.salesforceairesearch.com/author/ran/)) as a research intern. I am currently a student researcher at Google working with Dr.[Yaojie Liu](https://yaojieliu.github.io/) and Dr. [Vincent Chu](https://l2ior.github.io/).     
    
    Before UMD, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.
   
-  <span style="background-color: #cce6ff">I'm graduating in Spring 2024 and am now on the job market for full-time roles.</span>
+  <span style="background-color: #AFEEEE;height:60px;color: #000000;"> <b>I'm graduating in Spring 2024 and am now on the job market for full-time roles.</b></span>
 
 ## Selected Publications
 
@@ -72,5 +72,4 @@ Journal reviewer: IJCV
 
 ## More about me (misc)
 
-I enjoy doing yoga and meditation. I listen to classical music when focusing. 
-I'm not a gamer, but I once spent a good amount of time on The Legend of Zelda (BotW) and Stardew Valley.
+I enjoy doing yoga and meditation. I listen to classical music when focusing. I haven't played many video games, but I had great times playing The Legend of Zelda (BotW) and Stardew Valley.
