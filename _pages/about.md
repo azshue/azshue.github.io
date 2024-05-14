@@ -9,22 +9,21 @@ redirect_from:
 ---
 
 ## About me     
-   I am a final-year Ph.D. candidate in the Department of Computer Science at the University of Maryland, College Park (UMD). As a research assistant at UMD, I work with Dr. [Tom Goldstein](https://www.cs.umd.edu/~tomg/) on research topics relevant to AI/ML safety. 
-   
-   My research interest is to develop trustworthy machine learning (AI/ML) systems, for which I have worked on model reliability, interpretability, and AI/ML safety. I have broad interests and experience in studying these problems for different ML systems, including vision-language models, large language models (LLMs), and image generative diffusion models. 
+   I am a researcher at Salesforce Research, I work on multimodal large language models. Before joining Salesforce, I obtained my Ph.D. degree in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). I mainly worked on research topics relevant to AI/ML safety and trustworthiness during my Ph.D. years.     
 
-   During Ph.D., I have interned at Nvidia, Salesforce and Google as a research intern, where I have collaborated with many awesome professors and researchers.
+   During my years at UMD, I have interned at Nvidia, Salesforce, and Google as a research intern, where I have collaborated with many awesome professors and researchers. Before that, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.      
   
-   
-   Before UMD, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.
-  
-  <!-- <span style="background-color: #AFEEEE;height:60px;color: #000000;"> <b>I'm graduating in Spring 2024 and am now on the job market for full-time roles.</b></span> -->
 
 
 ## News
 
-* **[09/2023]** One paper accepted at NeurIPS. We studied a novel vulnerability of aligned language models from the perspective of data security. 
-* **[11/2022]** In New Orleans attending NeurIPS. Will present the work done at Nvidia about prompt tuning for vision-language models. (Excited to attend my first in-person academic conference. I wish I had printed a bigger poster.)
+* **[05/2024]** Releasing Salesforce's multimodal large language models - XGen-MM, the enhanced continuation of our BLIP series. [\[<u>Twitter</u>\]](https://x.com/ManliShu/status/1789151298258108580), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1)
+* **[05/2024]** Gave an oral presentation at ICRA'24 on a previous internship project about 3D object detection. [\[<u>paper</u>\]](https://arxiv.org/pdf/2301.02650)
+* **[02/2024]** Two preprints out (done at UMD). One studied data poisoning on vision-language models, another explored adversarial attacks on LLMs.
+* **[01/2024]** Joined Salesforce Research. Relocated to Palo Alto, CA. 
+* **[11/2023]** Defended my Ph.D. dissertation 💐 👩🏻‍🎓
+* **[09/2023]** One paper accepted at NeurIPS. We studied a novel vulnerability of aligned language models from the perspective of data security. [\[<u>paper</u>\]](https://proceedings.neurips.cc/paper_files/paper/2023/file/c2a8060fd22744b38177d9e428a052e0-Paper-Conference.pdf)[\[<u>code</u>\]](https://github.com/azshue/AutoPoison)
+* **[11/2022]** In New Orleans attending NeurIPS. Presented the work done at Nvidia about prompt tuning for vision-language models. (Excited to attend my first in-person academic conference. I wish I had printed a bigger poster.)[\[<u>paper</u>\]](https://arxiv.org/pdf/2209.07511)[<u>project page</u>\]](https://azshue.github.io/TPT/)[\[<u>code</u>\]](https://github.com/azshue/TPT)
 
 
 ## Selected Publications
@@ -82,4 +81,4 @@ Journal reviewer: IJCV
 
 ## More about me (misc)
 
-I enjoy doing yoga and meditation. I listen to classical music when focusing. I haven't played many video games, but I had great times playing The Legend of Zelda (BotW) and Stardew Valley.
+Things I like: Sun, seaside, going for a walk, yoga, weightlifting, civ 6, the legend of Zelda - BotW...
