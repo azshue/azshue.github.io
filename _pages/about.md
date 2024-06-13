@@ -18,7 +18,7 @@ redirect_from:
 ## News
 
 * **[05/2024]** Releasing Salesforce's multimodal large language models - XGen-MM, the enhanced continuation of our BLIP series. [\[<u>Twitter</u>\]](https://x.com/ManliShu/status/1789151298258108580), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1)
-* **[05/2024]** Gave an oral presentation at ICRA'24 on a previous internship project about 3D object detection. [\[<u>paper</u>\]](https://arxiv.org/pdf/2301.02650)
+* **[05/2024]** Gave an oral presentation at ICRA'24 on a previous internship project about 3D object detection. [\[<u>paper</u>\]](https://arxiv.org/pdf/2301.02650) [\[<u>slides</u>\]](https://azshue.github.io/files/icra-2024-presentation-pdf.pdf)
 * **[02/2024]** Two preprints out (done at UMD). One studied data poisoning on vision-language models, another explored adversarial attacks on LLMs.
 * **[01/2024]** Joined Salesforce Research. Relocated to Palo Alto, CA. 
 * **[11/2023]** Defended my Ph.D. dissertation 💐 👩🏻‍🎓
