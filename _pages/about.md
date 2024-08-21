@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 ## About me     
-   I am a researcher at Salesforce Research, I work on multimodal large language models. Before joining Salesforce, I obtained my Ph.D. degree in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). I mainly worked on research topics relevant to AI/ML safety and trustworthiness during my Ph.D. years.     
+   I am a researcher at Salesforce Research, I work on large multimodal models. Before joining Salesforce, I obtained my Ph.D. degree in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). I mainly worked on research topics relevant to AI/ML safety and trustworthiness during my Ph.D. years.     
 
    During my years at UMD, I have interned at Nvidia, Salesforce, and Google as a research intern, where I have collaborated with many awesome professors and researchers. Before that, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.      
   
 
 
 ## News
-
-* **[05/2024]** Releasing Salesforce's multimodal large language models - XGen-MM, the enhanced continuation of our BLIP series. [\[<u>Twitter</u>\]](https://x.com/ManliShu/status/1789151298258108580), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1)
+* **[08/2024]** Technical report out: [xGen-MM (BLIP-3): A Family of Open Large Multimodal](https://arxiv.org/pdf/2408.08872), along with xGen-MM-v1.5 model release. Been driving the instruction tuning efforts in model development. [\[<u>arXiv</u>\]](https://arxiv.org/pdf/2408.08872) [\[<u>X Live with @AK</u>\]](https://x.com/_akhaliq/status/1825738604435419497), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-interleave-r-v1.5)
+* **[05/2024]** Released Salesforce's multimodal large language models - xGen-MM, the enhanced continuation of our BLIP series. [\[<u>Twitter</u>\]](https://x.com/ManliShu/status/1789151298258108580), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1)
 * **[05/2024]** Gave an oral presentation at ICRA'24 on a previous internship project about 3D object detection. [\[<u>paper</u>\]](https://arxiv.org/pdf/2301.02650) [\[<u>slides</u>\]](https://azshue.github.io/files/icra-2024-presentation-pdf.pdf)
 * **[02/2024]** Two preprints out (done at UMD). One studied data poisoning on vision-language models, another explored adversarial attacks on LLMs.
 * **[01/2024]** Joined Salesforce Research. Relocated to Palo Alto, CA. 
