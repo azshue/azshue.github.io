@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 ## About me     
-   I am a researcher at Salesforce Research, where I spend most of my time working on large multimodal models. Before joining Salesforce, I obtained my Ph.D. degree in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). My PhD research focuses topics relevant to AI/ML safety and trustworthiness in both vision and language modalities.     
+   I’m a researcher at Salesforce AI Research, where I work on large multimodal models. 
+   
+   Before joining Salesforce, I got my Ph.D. in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). My PhD research focuses on topics relevant to AI/ML safety and trustworthiness in both vision and language modalities. 
+   
+   During my years at UMD, I interned at Nvidia, Salesforce, and Google, collaborating with some amazing researchers. Before that, I did my undergrad at the University of Science and Technology of China (USTC) and graduated in 2019.
 
-   During my years at UMD, I have interned at Nvidia, Salesforce, and Google as a research intern, where I have collaborated with many awesome professors and researchers. Before that, I obtained my bachelor's degree in information security at the University of Science and Technology of China (USTC) in June 2019.      
+   I’m always excited to explore new ideas and collaboration opportunities, so feel free to reach out!     
   
 
 
@@ -31,7 +35,7 @@ redirect_from:
   *For the complete list of publications, please refer to my [google scholar](https://scholar.google.com/citations?user=WPYkxjgAAAAJ&hl=en) page*
 
   * **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**    
-    L. Xue, **M. Shu\***, A. Awadalla, J. Wang, A. Yan, S. Purushwalkam, H. Zhou, V. Prabhu, Y. Dai, M. S Ryoo, S. Kendre, J. Zhang, C. Qin, S. Zhang, C. Chen, N. Yu, J. Tan, T. Awalgaonkar, S. Heinecke, H. Wang, Y. Choi, L. Schmidt, Z. Chen, S. Savarese, J. C. Niebles, C. Xiong, R. Xu    
+    L. Xue\*, **M. Shu\***, A. Awadalla, J. Wang, A. Yan, S. Purushwalkam, H. Zhou, V. Prabhu, Y. Dai, M. S Ryoo, S. Kendre, J. Zhang, C. Qin, S. Zhang, C. Chen, N. Yu, J. Tan, T. Awalgaonkar, S. Heinecke, H. Wang, Y. Choi, L. Schmidt, Z. Chen, S. Savarese, J. C. Niebles, C. Xiong, R. Xu    
     *ECCV 2024 Eval-FoMo workshop*  
     [[arXiv](https://arxiv.org/pdf/2408.08872)][[🤗 Model card](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-interleave-r-v1.5)] [[Code](https://github.com/salesforce/LAVIS/tree/xgen-mm)]
   
