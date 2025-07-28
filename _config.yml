@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Manli Shu"
 title_separator          : "-"
 name                     : &name "Manli Shu"
-description              : &description "PhD student at University of Maryland"
+description              : &description "Research Scientist at Google Deepmind"
 url                      : https://azshue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "azshue.github.io"
@@ -85,12 +85,12 @@ analytics:
 author:
   name             : "Manli Shu"
   avatar           : "profile-manli.JPG"
-  bio              : "Ph.D. candidate in Computer Science at the university of Maryland (UMD)."
-  location         : "College Park, MD, U.S."
+  bio              : "Research Scientist at Google Deepmind"
+  location         : "Mountain View, CA, U.S."
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WPYkxjgAAAAJ&hl=en"
-  email            : "manlis@cs.umd.edu"
+  email            : "manlis@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/manlishu/"
+  linkedin         : "manlishu"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

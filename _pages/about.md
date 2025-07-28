@@ -9,17 +9,20 @@ redirect_from:
 ---
 
 ## About me     
-   I’m a researcher at Salesforce AI Research, where I work on large multimodal models. 
+   I’m a research scientist at Google Deepmind, where I work on Gemini multimodal understanding. 
    
-   Before joining Salesforce, I got my Ph.D. in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). My PhD research focuses on topics relevant to AI/ML safety and trustworthiness in both vision and language modalities. 
+   I got my Ph.D. in Computer Science from the University of Maryland, College Park (UMD) in 2024, advised by [Tom Goldstein](https://www.cs.umd.edu/~tomg/). My PhD research focuses on topics relevant to AI/ML safety and trustworthiness in both vision and language modalities. 
    
    During my years at UMD, I interned at Nvidia, Salesforce, and Google, collaborating with some amazing researchers. Before that, I did my undergrad at the University of Science and Technology of China (USTC) and graduated in 2019.
 
    I’m always excited to explore new ideas and collaboration opportunities, so feel free to reach out!     
+
+   [\[Google Scholar\]](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=WPYkxjgAAAAJ) [\[LinkedIn\]](https://www.linkedin.com/in/manlishu/) [\[X\]](https://x.com/ManliShu)
   
 
 
 ## News
+* **[06/2025]** Joined Google Deepmind, working on Gemini multimodal understanding.
 * **[08/2024]** Technical report is released: [xGen-MM (BLIP-3): A Family of Open Large Multimodal](https://arxiv.org/pdf/2408.08872), along with xGen-MM-v1.5 model release. Been driving the post-training and open-source effort in this project. [\[<u>arXiv</u>\]](https://arxiv.org/pdf/2408.08872) [\[<u>X Live with @AK</u>\]](https://x.com/_akhaliq/status/1825738604435419497), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-interleave-r-v1.5)
 * **[05/2024]** Released Salesforce's multimodal large language models - xGen-MM, the enhanced continuation of our BLIP series. [\[<u>Twitter</u>\]](https://x.com/ManliShu/status/1789151298258108580), [\[<u>🤗 Model card</u>\]](https://huggingface.co/Salesforce/xgen-mm-phi3-mini-instruct-r-v1)
 * **[05/2024]** Gave an oral presentation at ICRA'24 on a previous internship project about 3D object detection. [\[<u>paper</u>\]](https://arxiv.org/pdf/2301.02650) [\[<u>slides</u>\]](https://azshue.github.io/files/icra-2024-presentation-pdf.pdf)
@@ -94,6 +97,6 @@ redirect_from:
 Conference reviewer:  NeurIPS, ICML, ICLR, CVPR, ICCV, IROS   
 Journal reviewer: IJCV    
 
-## More about me (misc)
+<!-- ## More about me (misc)
 
-Things I like: Sun, seaside, going for a walk, yoga, weightlifting, civ 6, the legend of Zelda (BotW)...
+Things I like: Sun, seaside, going for a walk, yoga, weightlifting, civ 6, the legend of Zelda (BotW)... -->
